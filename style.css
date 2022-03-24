@@ -1,0 +1,52 @@
+.container{
+    margin-top: 15px;
+}
+
+
+.nav_box{
+    background-color: #2F3D46;
+    color: aliceblue;
+}
+
+.git{
+    letter-spacing: 5px;
+}
+
+.main{
+    margin: 50px;
+}
+.main_col_1{
+    height: 60vh;
+    border-radius: 20px;
+    background-color: #353535;
+}
+
+.first_row{
+    height: 40px;
+    margin-bottom: 40px;
+    border-radius: 8px;
+    background-color: #353535;
+}
+
+.second_row_first_box{
+    height:100px;
+    margin: 20px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    background-color: #353535;
+}
+
+.third_row{
+    height: 150px;
+    border-radius: 20px;
+    background-color: #353535;
+}
+
+.main_row_2{
+    background-color:#CAD2C5;
+    padding: 50px;
+}
+
+.search{
+    letter-spacing: 2px;
+}
